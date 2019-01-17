@@ -18,7 +18,7 @@
 
 .NavBar-header li {
   display: inline-block;
-  float: left;
+  float: none;
   width: 33.3%;
   text-align: center;
   padding: 26px 0;
