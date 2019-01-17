@@ -1,0 +1,30 @@
+.NavBar-header {
+  background: #434259;
+  color: #fff;
+  min-height: 70px;
+  clear: both;
+  margin: auto;
+  position: fixed;
+  width: 100%;
+  font-size: 2.5vw;
+  z-index: 99;
+}
+
+.NavBar-header ul {
+  margin: 0;
+  list-style-type: none;
+  -webkit-padding-start: 0px;
+}
+
+.NavBar-header li {
+  display: inline-block;
+  float: left;
+  width: 33.3%;
+  text-align: center;
+  padding: 26px 0;
+}
+
+.NavBar-header a {
+  color: #fff;
+  text-decoration: none;
+}
