@@ -1,4 +1,4 @@
-# Clicky Game
+# Clicky Horror Game
 
 ## Overview
 
@@ -10,7 +10,7 @@ components and component states, and responds to user events.
 1. It was created using
    [Create React App](https://github.com/facebookincubator/create-react-app).
 
-2. It renders 12 images of pups to the screen. Each image
+2. It renders 12 images of Horror Film Posters to the screen. Each image
    listens for click events.
 
 3. The application keeps track of the user's score. The user's score is
@@ -21,4 +21,4 @@ components and component states, and responds to user events.
 4. Every time an image is clicked, the images rendered to the page shuffle
    themselves in a random order.
 
-5. When the user's score is reset after an incorrect guess, the game restarts.
+5. The user's score is reset after an incorrect guess, and the game restarts.
