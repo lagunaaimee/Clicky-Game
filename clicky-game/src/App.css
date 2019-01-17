@@ -4,10 +4,10 @@
 }
 
 .App-header {
-  background-color: #2b5271;
+  background-color: teal;
   padding: 16vw 1vw 2.5vw;
-  color: white;
-  background-image: url('./lawn.jpg');
+  color: maroon;
+  background-image: url('https://www.nerdmuch.com/wp-content/uploads/2016/09/halloween-horror-movies-october-2016.jpg');
   background-size: cover;
 }
 

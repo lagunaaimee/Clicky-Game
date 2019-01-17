@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Horror1",
+    "image":
+    "https://i.pinimg.com/originals/71/f4/5a/71f45a3fed194f01a61336a62b1dc481.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Horror2",
+    "image":
+      "https://i.pinimg.com/originals/0f/f2/b1/0ff2b173424aaaf90437f0af8ebb3fa8.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Horror3",
+    "image":
+      "http://images.fandango.com/images/fandangoblog/IMPAwards_CrimsonPeak-151130.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Horror4",
+    "image":
+      "http://www.molinsfilmfestival.com/wp-content/uploads/2018/05/carrie-1976-posters-3.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Horror5",
+    "image":
+      "http://www.realclearlife.com/wp-content/uploads/2017/08/hammet-horror-posters-5-0807.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Horror6",
+    "image":
+      "https://static1.squarespace.com/static/5880b7daf7e0abb5b666d86d/58c5a8c2c534a58f93950cf2/58c5aac31b631bea2c404423/1489349319341/birds-01.png?format=1000w"
+  },
+  {
+    "id": 7,
+    "name": "Horror7",
+    "image":
+      "https://mychicatopia.com/wp-content/uploads/2018/11/gremlins-movie-poster-gremlins-movie-poster-gremlins-teaser-horror-movie-posters.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Horror8",
+    "image":
+      "https://99designs-blog.imgix.net/wp-content/uploads/2016/10/The-Exorcist-2.jpg?auto=format&q=60&fit=max&w=930"
+  },
+  {
+    "id": 9,
+    "name": "Horror9",
+    "image":
+      "http://4.bp.blogspot.com/-j8gh8lmpQhI/VaM4jwOgYvI/AAAAAAAACHM/C8GGK40ntlg/s1600/silence%2Bof%2Bthe%2Blambs%2B7-10.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Horror10",
+    "image":
+      "http://www.comingsoon.net/assets/styd/assets/uploads/2016/03/Bloodline.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Horror11",
+    "image":
+      "https://images.fandango.com/ImageRenderer/0/0/redesign/static/img/default_poster.png/0/images/masterrepository/other/best-131108-bride-of-frankenstein.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Horror12",
+    "image":
+      "https://m.media-amazon.com/images/M/MV5BZTcxZDE5Y2MtODNmOC00YjQ0LTk3YzQtZWU1OTU2ZTgwNDVkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg"
+  }
+]

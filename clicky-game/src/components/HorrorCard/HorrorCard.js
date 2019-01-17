@@ -1,7 +1,7 @@
 import React from 'react';
-import './DogCard.css';
+import './HorrorCard.css';
 
-const DogCard = props => {
+const HorrorCard = props => {
   return (
     <div className="card" onClick={() => props.handlePick(props)}>
       <div className="img-container">
@@ -10,4 +10,4 @@ const DogCard = props => {
     </div>
   );
 };
-export default DogCard;
+export default HorrorCard;

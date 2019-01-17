@@ -5,7 +5,7 @@ const NavBar = props => (
   <div className="NavBar-header">
     <ul>
       <li>
-        <a href="/">Clicky Game</a>
+        <a href="/">Clicky Horror</a>
       </li>
       <li>{props.subtitle}</li>
       <li>

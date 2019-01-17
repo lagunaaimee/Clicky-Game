@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import NavBar from './components/NavBar';
-import DogCard from './components/DogCard';
-import dogs from './dogs.json';
+import HorrorCard from './components/HorrorCard';
+import horrors from './horrors.json';
 import './App.css';
 // Randomizes the order of the elements in a given array
 const shuffle = require('shuffle-array');
@@ -9,7 +9,7 @@ const shuffle = require('shuffle-array');
 class App extends Component {
   // Setting this.state.friends to the friends json array
   state = {
-    dogs,
+    horrors,
     subtitle: 'Click an image to begin!',
     score: 0,
     topScore: 0,
@@ -56,13 +56,13 @@ class App extends Component {
           </header>
           <div className="container">
             {shuffle(
-              this.state.dogs.map(dog => (
-                <DogCard
-                  key={dog.id}
-                  id={dog.id}
+              this.state.horrors.map(Horror => (
+                <HorrorCard
+                  key={Horror.id}
+                  id={Horror.id}
                   handlePick={this.handlePick}
-                  name={dog.name}
-                  image={dog.image}
+                  name={Horror.name}
+                  image={Horror.image}
                   subtitle={this.state.subtitle}
                   score={this.state.score}
                   topScore={this.state.topScore}
